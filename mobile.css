@@ -1,0 +1,272 @@
+@media screen and (max-width: 950px) {
+    header{
+        padding: 0px;
+    }
+    header .head-1 i{
+        display: flex;
+    }
+
+    header .head-1 img {
+        width: 14%;
+    }
+
+    header .head-2{
+        padding: 0%;
+    }
+
+    header .head-2 .sub-head1{
+        display: none;
+    }
+
+    header .head-2 .sub-head1 ul{
+        display: grid;
+    }
+
+    .blank {
+        display: none;
+    }
+
+    header .head-2 .sub-head2{
+        display: none;
+    }
+
+    .head3-parent .head-3 {
+        right: 0%;
+        background-color: #212121;
+        position: relative;
+        display: flex;
+        float: right;
+        justify-content: space-evenly;
+        width: 99%;
+        padding: 25px 0px;
+    }
+
+    header .head-fix {
+        display: none;
+    }
+
+    .head-4 {
+        opacity: 0.9;
+        right: 0;
+        background-image: linear-gradient(#100f0f, #272626);
+        position: fixed;
+        z-index: 2;
+        top: 0%;
+        display: flex;
+        float: right;
+        justify-content: space-evenly;
+        width: 100%;
+        padding: 0px;
+    }
+
+    .head-4 .flipcart {
+        color: #fff;
+        line-height: 0%;
+    }
+    
+    .head-4 .flipcart {
+        list-style-type: none;
+        background-color: #100f0f;
+        opacity: 0.9;
+        width: 120px;
+        text-align: center;
+        align-items: center;
+        display: grid;
+    }
+
+    .img {
+        top: 98.3%;
+    }
+    .img1{
+        top: 142.6%;
+    }
+
+    .img2{
+        top: 180.6%;
+    }
+
+    .img3{
+        top: 240%;
+    }
+
+    .img4{
+        top: 324.9%;
+    }
+
+    .img5{
+        top: 399.4%;
+    }
+
+    .img6{
+        top: 483.2%;
+    }
+
+    .img7{
+        top: 550.5%;
+    }
+
+    .img8{
+        top: 638.8%;
+    }
+
+    .img9{
+        top: 712.7%;
+    }
+
+    .img10{
+        top: 806.5%;
+    }
+
+    footer {
+        position: absolute;
+        top: 866%;
+        text-align: center;
+        width: 100%;
+    }
+
+    footer .headline p{
+        font-size: 24px;
+    }
+
+    footer .icon {
+        margin: 0px 0 20px;
+    }
+
+    footer .chat {
+        margin-top: 9px;
+        margin-bottom: 31px;
+    }   
+    
+    footer .icon i {
+        color: #B9B9B9;
+        font-size: 20px;
+        padding: 15px;
+    }
+
+    footer .chat a {
+        background-color: rgb(251, 198, 0);
+        color: rgb(255, 255, 255);
+        font-size: 20px;
+        font-weight: 700;
+        padding: 5px 78px;
+    }
+
+    footer .about p {
+        color: #B9B9B9;
+        font-size: 22px;
+    }
+
+    footer .about a {
+        line-height: 1.8;
+        font-size: 15px;
+    }
+
+    .foot {
+        margin: 31px 24px 10px;
+        border-top: 0.5px solid rgb(105, 105, 104);
+        padding-top: 5px;
+    }
+
+    .img11{
+        top: 97.3%;
+    }
+
+    .img12{
+        top: 191.2%;
+    }
+
+    .img22{
+        top: 288.3%;
+    }
+
+    .img23{
+        top: 382%;
+    }
+
+    .img24{
+        top: 479.5%;
+    }
+
+    .img25{
+        top: 580.5%;
+    }
+
+    .img26{
+        top: 672.5%;
+    }
+
+    .img27{
+        top: 771.5%;
+    }
+
+    .img28{
+        top: 862.2%;
+    }
+
+    .img29{
+        top: 958.6%;
+    }
+
+    .img30{
+        top: 1055.2%;
+    }
+
+    .img31{
+        top: 1150%;
+    }
+
+    .img32{    
+        top: 1287%;
+    }
+
+    .footer1 {
+        position: absolute;
+        top: 1380%;
+        text-align: center;
+        width: 100%;
+    }
+
+    .footer1 .headline p{
+        font-size: 24px;
+    }
+
+    .footer1 .icon {
+        margin: 0px 0 20px;
+    }
+
+    .footer1 .chat {
+        margin-top: 9px;
+        margin-bottom: 31px;
+    }   
+    
+    .footer1 .icon i {
+        color: #B9B9B9;
+        font-size: 20px;
+        padding: 15px;
+    }
+
+    .footer1 .chat a {
+        background-color: rgb(251, 198, 0);
+        color: rgb(255, 255, 255);
+        font-size: 20px;
+        font-weight: 700;
+        padding: 5px 78px;
+    }
+
+    .footer1 .about p {
+        color: #B9B9B9;
+        font-size: 22px;
+    }
+
+    .footer1 .about a {
+        line-height: 1.8;
+        font-size: 15px;
+    }
+
+    .foot {
+        margin: 31px 24px 10px;
+        border-top: 0.5px solid rgb(105, 105, 104);
+        padding-top: 5px;
+    }
+}
+
